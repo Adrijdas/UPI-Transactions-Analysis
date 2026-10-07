@@ -2,7 +2,7 @@
 
 **Real-Time Analytical Overview of Unified Payments Interface (UPI) Transactions**
 
-![Dashboard Preview](Dashboard_Picture.png)
+![Dashboard Preview](Dashboard/Dashboard_Picture.png)
 
 ---
 
@@ -104,20 +104,5 @@ The dataset covers a wide range of real-world UPI activity including Person-to-M
 - **Product & Partnership Teams** → Understand app-wise and merchant-category performance
 - **Leadership** → Get a clear visual summary of UPI ecosystem health and growth trends
 
----
 
-## Author
 
-**[Adrij Das]**  
-Data Analyst
-
----
-
-## License
-
-This project is open for educational and non-commercial use.  
-Feel free to fork, modify, and enhance it.
-
----
-
-**If you found this project useful, please give it a ⭐**
